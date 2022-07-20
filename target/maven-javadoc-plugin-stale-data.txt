@@ -1,0 +1,50 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/jt251/.m2/repository/GrupoTaylor/RCP-1/1.1.0/RCP-1-1.1.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/jt251/OneDrive/Documentos/NetBeansProjects/RCP_Servicor_cliente/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/jt251/OneDrive/Documentos/NetBeansProjects/RCP_Servicor_cliente/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'RCP_Servicor_cliente 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/jt251/OneDrive/Documentos/NetBeansProjects/RCP_Servicor_cliente/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'RCP_Servicor_cliente 1.0-SNAPSHOT API'
+com.mycompany.rcp_servicor_cliente
+'C:/Users/jt251/OneDrive/Documentos/NetBeansProjects/RCP_Servicor_cliente/src/main/java/com/mycompany/rcp_servicor_cliente/Servidor.java'
+'C:/Users/jt251/OneDrive/Documentos/NetBeansProjects/RCP_Servicor_cliente/src/main/java/com/mycompany/rcp_servicor_cliente/Suma.java'
+C:\Users\jt251\.m2\repository\GrupoTaylor\RCP-1\1.1.0\RCP-1-1.1.0.jar = 1658199819636
+C:\Users\jt251\OneDrive\Documentos\NetBeansProjects\RCP_Servicor_cliente\src\main\java = 1658203099637
+C:\Users\jt251\OneDrive\Documentos\NetBeansProjects\RCP_Servicor_cliente\target\apidocs\allclasses-index.html = 1658278729033
+C:\Users\jt251\OneDrive\Documentos\NetBeansProjects\RCP_Servicor_cliente\target\apidocs\allpackages-index.html = 1658278729037
+C:\Users\jt251\OneDrive\Documentos\NetBeansProjects\RCP_Servicor_cliente\target\apidocs\element-list = 1658278728943
+C:\Users\jt251\OneDrive\Documentos\NetBeansProjects\RCP_Servicor_cliente\target\apidocs\help-doc.html = 1658278729072
+C:\Users\jt251\OneDrive\Documentos\NetBeansProjects\RCP_Servicor_cliente\target\apidocs\index-all.html = 1658278729062
+C:\Users\jt251\OneDrive\Documentos\NetBeansProjects\RCP_Servicor_cliente\target\apidocs\index.html = 1658278729065
+C:\Users\jt251\OneDrive\Documentos\NetBeansProjects\RCP_Servicor_cliente\target\apidocs\jquery-ui.overrides.css = 1658278729141
+C:\Users\jt251\OneDrive\Documentos\NetBeansProjects\RCP_Servicor_cliente\target\apidocs\member-search-index.js = 1658278729045
+C:\Users\jt251\OneDrive\Documentos\NetBeansProjects\RCP_Servicor_cliente\target\apidocs\module-search-index.js = 1658278729040
+C:\Users\jt251\OneDrive\Documentos\NetBeansProjects\RCP_Servicor_cliente\target\apidocs\overview-tree.html = 1658278729008
+C:\Users\jt251\OneDrive\Documentos\NetBeansProjects\RCP_Servicor_cliente\target\apidocs\package-search-index.js = 1658278729042
+C:\Users\jt251\OneDrive\Documentos\NetBeansProjects\RCP_Servicor_cliente\target\apidocs\script.js = 1658278729078
+C:\Users\jt251\OneDrive\Documentos\NetBeansProjects\RCP_Servicor_cliente\target\apidocs\search.js = 1658278729083
+C:\Users\jt251\OneDrive\Documentos\NetBeansProjects\RCP_Servicor_cliente\target\apidocs\stylesheet.css = 1658278729076
+C:\Users\jt251\OneDrive\Documentos\NetBeansProjects\RCP_Servicor_cliente\target\apidocs\tag-search-index.js = 1658278729048
+C:\Users\jt251\OneDrive\Documentos\NetBeansProjects\RCP_Servicor_cliente\target\apidocs\type-search-index.js = 1658278729043

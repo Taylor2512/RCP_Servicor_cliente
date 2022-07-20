@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mycompany.rcp_servicor_cliente","l":"Servidor"},{"p":"com.mycompany.rcp_servicor_cliente","l":"Suma"}];updateSearchResults();
